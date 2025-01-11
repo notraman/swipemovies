@@ -90,19 +90,13 @@ We welcome contributions from everyone! If you'd like to improve this project or
     ```
 5. Open a pull request.
 
----
-
-## License 📜
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## Contact 📧
 
 For any inquiries or feedback, feel free to reach out:
 
-- **GitHub**: [Your GitHub Username](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **GitHub**: notraman (https://github.com/notraman)
+             prasadmadhu123 (https://github.com/prasadmadhu123)
+- **Email**: iamramanbole@example.com
 
 Enjoy discovering movies with **Swipe Movies**! 🍿
