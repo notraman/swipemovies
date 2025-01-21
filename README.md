@@ -97,6 +97,6 @@ For any inquiries or feedback, feel free to reach out:
 
 - **GitHub**: notraman (https://github.com/notraman)
              prasadmadhu123 (https://github.com/prasadmadhu123)
-- **Email**: iamramanbole@example.com
+- **Email**: iamramanbole@gmail.com
 
 Enjoy discovering movies with **Swipe Movies**! 🍿
